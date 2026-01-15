@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual envs
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# IDE configs
+.idea/
+**/.idea/
+
+# Env files
+*.env
+!.env.enc
+
+# Secrets
+*.pem
+*.pem.pub
+*.json
+!*.json.enc
+*secret
+
+
+# Local notes
+.todo/
+todo/
+dev/
