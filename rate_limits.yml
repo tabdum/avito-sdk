@@ -1,0 +1,16 @@
+avito:
+  token:
+    max_calls: 20
+    period: 60
+
+  items:
+    max_calls: 50
+    period: 60
+
+  messenger:
+    max_calls: 10
+    period: 60
+
+  default:
+    max_calls: 10
+    period: 60
